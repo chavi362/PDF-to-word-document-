@@ -3,18 +3,18 @@
 ## Overview
 
 This is a simple PDF to text converter application built using Python and the tkinter library for the graphical user interface. The application allows users to select a PDF file, converts it to a Word document (.docx), and displays a notification upon successful conversion.
-Features
+## Features
 
-    User-friendly graphical interface.
-    Converts PDF files to Word documents (.docx).
-    Error handling for a smooth user experience.
+User-friendly graphical interface.
+Converts PDF files to Word documents (.docx).
+ Error handling for a smooth user experience.
 
 ## Getting Started
 
     Install Dependencies:
     Ensure you have the required dependencies installed by running the following command:
-
-   ```bash
+    
+ ```bash
 
 pip install pdf2docx
 ```
