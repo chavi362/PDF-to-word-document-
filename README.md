@@ -11,8 +11,8 @@ Converts PDF files to Word documents (.docx).
 
 ## Getting Started
 
-    Install Dependencies:
-    Ensure you have the required dependencies installed by running the following command:
+Install Dependencies:
+Ensure you have the required dependencies installed by running the following command:
     
  ```bash
 
