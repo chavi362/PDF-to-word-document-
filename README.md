@@ -29,11 +29,9 @@ Execute the script using the following command:
 
 
  Replace your_script_name.py with the actual name of your Python script.
-
-  ## Usage:
+## Usage:
  Click the "Browse" button to select a PDF file.
  Click the "Convert" button to initiate the conversion process.
-
 ## Notes
 
 The converted Word file will have the same name as the input PDF file but with a .docx extension.
